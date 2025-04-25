@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: y1kxu428d-nodejs-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/y1kxu428d-nodejs
